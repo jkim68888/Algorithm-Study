@@ -4,6 +4,11 @@
 
 ## 프로그래머스 연습문제 Lv.1
 
+11 . 하샤드 수인지 판별하는 알고리즘 : 18 => true
+
+- [문제 보러가기](https://programmers.co.kr/learn/courses/30/lessons/12947)
+- [내 풀이 보러가기](./2022-01-04-하샤드수.js)
+
 10 . 배열에서 가장 작은 수를 제거한 배열을 리턴하는 알고리즘 : [4, 3, 2, 1] => [4, 3, 2]
 
 - [문제 보러가기](https://programmers.co.kr/learn/courses/30/lessons/12935)
