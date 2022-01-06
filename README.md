@@ -4,6 +4,16 @@
 
 ## 프로그래머스 연습문제 Lv.1
 
+13 . 콜라츠 추측 알고리즘 : 6 => 8
+
+- [문제 보러가기](https://programmers.co.kr/learn/courses/30/lessons/12943)
+- [내 풀이 보러가기](./2022-01-06-콜라츠추측-문자열내림차순배치.js)
+
+12 . 문자열 내림차순 정렬 알고리즘 : "Zbcdefg" => "gfedcbZ"
+
+- [문제 보러가기](https://programmers.co.kr/learn/courses/30/lessons/12917)
+- [내 풀이 보러가기](./2022-01-06-콜라츠추측-문자열내림차순배치.js)
+
 11 . 하샤드 수인지 판별하는 알고리즘 : 18 => true
 
 - [문제 보러가기](https://programmers.co.kr/learn/courses/30/lessons/12947)
