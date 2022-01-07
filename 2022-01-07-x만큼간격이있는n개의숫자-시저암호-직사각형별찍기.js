@@ -49,3 +49,33 @@ function solution2(s, n) {
 console.log('AB, 1 : ', solution2('AB', 1))
 console.log('z, 1 : ', solution2('z', 1))
 console.log('a B z, 4 : ', solution2('a B z', 4))
+
+// https://programmers.co.kr/learn/courses/30/lessons/12969
+// 직사각형 별찍기
+
+process.stdin.setEncoding('utf8')
+process.stdin.on('data', (data) => {
+  const n = data.split(' ')
+  const a = Number(n[0]),
+    b = Number(n[1])
+  console.log(('*'.repeat(a) + '\n').repeat(b))
+})
+
+//다른 풀이
+process.stdin.setEncoding('utf8')
+//입력받은 숫자를 'data에 받는다'
+process.stdin.on('data', (data) => {
+  // data(입력받은 숫자)를 배열로 변경
+  const n = data.split(' ')
+  //a는 한줄에대한 별의 갯수, b는 몇줄 출력
+  const a = Number(n[0]),
+    b = Number(n[1])
+  let result = ''
+  for (var i = 0; i < b; i++) {
+    for (var j = 0; j < a; j++) {
+      result += '*'
+    }
+    result += '\n'
+  }
+  console.log(result)
+})
