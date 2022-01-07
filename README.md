@@ -4,6 +4,16 @@
 
 ## 프로그래머스 연습문제 Lv.1
 
+15 . 시저 암호 알고리즘 : s="AB", n=1 => "BC"
+
+- [문제 보러가기](https://programmers.co.kr/learn/courses/30/lessons/12926)
+- [내 풀이 보러가기](./2022-01-07-x만큼간격이있는n개의숫자-시저암호.js)
+
+14 . x 만큼 간격이 있는 n개의 숫자가 있는 배열을 리턴하는 알고리즘 : x=2, n=5 => [2,4,6,8,10]
+
+- [문제 보러가기](https://programmers.co.kr/learn/courses/30/lessons/12954)
+- [내 풀이 보러가기](./2022-01-07-x만큼간격이있는n개의숫자-시저암호.js)
+
 13 . 콜라츠 추측 알고리즘 : 6 => 8
 
 - [문제 보러가기](https://programmers.co.kr/learn/courses/30/lessons/12943)
