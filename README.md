@@ -4,6 +4,11 @@
 
 ## 프로그래머스 연습문제 Lv.1
 
+17 . 정수의 제곱근 판별 알고리즘 : 121 => 144
+
+- [문제 보러가기](https://programmers.co.kr/learn/courses/30/lessons/12934)
+- [내 풀이 보러가기](./2022-01-12-정수제곱근판별.js)
+
 16 . 직사각형 별찍기 알고리즘 : 2, 2 => \*\* \*\*
 
 - [문제 보러가기](https://programmers.co.kr/learn/courses/30/lessons/12969)
