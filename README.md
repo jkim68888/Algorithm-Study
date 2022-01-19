@@ -4,6 +4,11 @@
 
 ## 프로그래머스 연습문제 Lv.1
 
+18 . 약수의 합을 리턴하는 알고리즘 : 5 => 6
+
+- [문제 보러가기](https://programmers.co.kr/learn/courses/30/lessons/12928)
+- [내 풀이 보러가기](./2022-01-19-약수의합.js)
+
 17 . 정수의 제곱근 판별 알고리즘 : 121 => 144
 
 - [문제 보러가기](https://programmers.co.kr/learn/courses/30/lessons/12934)
